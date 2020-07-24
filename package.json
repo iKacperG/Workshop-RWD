@@ -1,0 +1,32 @@
+{
+  "name": "Workshop-RWD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "sass": "^1.26.10"
+  },
+  "browserslist": [
+    "defaults"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iKacperG/Workshop-RWD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iKacperG/Workshop-RWD/issues"
+  },
+  "homepage": "https://github.com/iKacperG/Workshop-RWD#readme",
+  "description": ""
+}
